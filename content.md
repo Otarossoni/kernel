@@ -8,7 +8,7 @@ Aqui é um pequeno lugar da internet que reúne tudo feito por [Otávio Monteiro
 
 ### Contato
 
-- [E-mail](mailto:otarossoni@gmail.com){:target="_blank"}
+- [E-mail](mailto:otarossoni@gmail.com)
 - <a href="https://github.com/Otarossoni" target="_blank">Github</a>
 - <a href="https://www.linkedin.com/in/otavio-monteiro-rossoni/" target="_blank">LinkedIn</a>
 - <a href="https://x.com/Otarossoni" target="_blank">Twitter / X</a>
