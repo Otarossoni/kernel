@@ -8,8 +8,8 @@ Aqui é um pequeno lugar da internet que reúne tudo feito por [Otávio Monteiro
 
 ### Contato
 
-- [E-mail](mailto:otarossoni@gmail.com)
-- [Github](https://github.com/Otarossoni)
-- [LinkedIn](https://www.linkedin.com/in/otavio-monteiro-rossoni/)
-- [Twitter / X](https://x.com/Otarossoni)
-- [Instagram](https://www.instagram.com/otarossoni/)
+- [E-mail](mailto:otarossoni@gmail.com){:target="_blank"}
+- [Github](https://github.com/Otarossoni){:target="_blank"}
+- [LinkedIn](https://www.linkedin.com/in/otavio-monteiro-rossoni/){:target="_blank"}
+- [Twitter / X](https://x.com/Otarossoni){:target="_blank"}
+- [Instagram](https://www.instagram.com/otarossoni/){:target="_blank"}
