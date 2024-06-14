@@ -9,7 +9,7 @@ Aqui é um pequeno lugar da internet que reúne tudo feito por [Otávio Monteiro
 ### Contato
 
 - [E-mail](mailto:otarossoni@gmail.com){:target="_blank"}
-- [Github](https://github.com/Otarossoni){:target="_blank"}
-- [LinkedIn](https://www.linkedin.com/in/otavio-monteiro-rossoni/){:target="_blank"}
-- [Twitter / X](https://x.com/Otarossoni){:target="_blank"}
-- [Instagram](https://www.instagram.com/otarossoni/){:target="_blank"}
+- <a href="https://github.com/Otarossoni" target="_blank">Github</a>
+- <a href="https://www.linkedin.com/in/otavio-monteiro-rossoni/" target="_blank">LinkedIn</a>
+- <a href="https://x.com/Otarossoni" target="_blank">Twitter / X</a>
+- <a href="https://www.instagram.com/otarossoni/" target="_blank">Instagram</a>
