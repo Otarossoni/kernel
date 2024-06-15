@@ -24,19 +24,11 @@ Algoritmos são muito importantes na construção de um pensamento lógico embas
 
 Projetos são importantes para exercitar todo o conhecimento adquirido por meio de cursos e livros. Abaixo, quero citar os que fiz e elaborar um pouco sobre cada um deles:
 
-<br />
-
 - [Integrador ADS - UPF](https://github.com/Otarossoni/projeto-integrador-ads): Meu trabalho de conclusão de curso de Análise e Desenvolvimento de Sistemas cursado na UPF (Universidade de Passo Fundo). Com tema livre, escolhi fazer uma plataforma de compartilhamento de promoções de lojas digitais, utilizando a stack [MongoDB](https://www.mongodb.com/), [Node.js](https://nodejs.org/en) e [React](https://react.dev/). Originalmente, esse não seria meu projeto, mas decidi mudar a ideia principal faltando apenas 2 meses para a entrega. Com foco total, tirei a nota máxima na disciplina através desse projeto.
-
-<br />
 
 - [Cleannode](https://github.com/Otarossoni/upf-oficina-cleannode): Alguns meses após minha formatura, chegou até mim a oportunidade de apresentar uma oficina de tema livre dentro da própria universidade em que me formei. Decidi unir meu conhecimento em [TypeScript](https://www.typescriptlang.org/) e meus estudos da época em [Clean Code](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675) nessa oficina, a qual tive 4 horas para apresentar formas de implementar o código limpo em [TypeScript](https://www.typescriptlang.org/) para uma turma de estudantes de cursos de TI da Universidade. 
 
-<br />
-
 - [Polymorphicus Philosophus](https://github.com/Otarossoni/polymorphicus-philosophus): Me apossando de um nome nada usual de uma língua morta e meu interesse por filosofia, com o fato de estar aprendendo uma segunda linguagem de programação, [Go](https://go.dev/) nesse caso. Decidi modelar uma simples API, com diversos recursos muito importantes para o mercado atual, e implementar essa mesma API em diversas linguagens de programação, com a mentalidade de que linguagens são apenas ferramentas para a resolução de um problema, nada mais, nada menos.
-
-<br />
 
 - [Cápsula da Programação](https://github.com/Otarossoni/capsula-da-programacao): Uma das melhores maneiras de se aprender, é ensinando, e esse é o intuito desse projeto, através de vídeos, ensino para outra pessoa (_seja ela qual for_) conceitos que desejo entender melhor ou reforçar. O desejo de desenvolver esse projeto veio da oficina que apresentei no projeto [Cleannode](https://github.com/Otarossoni/upf-oficina-cleannode).
 
