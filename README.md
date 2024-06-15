@@ -43,4 +43,3 @@ Para facilitar ou acelerar o desenvolvimento de determinadas atividades, sempre 
 Quanto mais se aprende, menos vídeos e cursos cobrem conhecimentos mais complexos, que só são obtidos por meio de livros, pois conseguem condensar uma massa absurda de entendimento sobre um determinado assunto, aqui os livros (_lidos_) que me foram importantes de alguma forma (_sem uma ordem de importância específica_).
 
 - <a href="https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634" target="_blank">Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos</a>
-
