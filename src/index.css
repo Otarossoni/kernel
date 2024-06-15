@@ -9,6 +9,10 @@ body {
   word-wrap: break-word;
 }
 
+body::-webkit-scrollbar {
+  display: none;
+}
+
 .container {
   background-color: #000000;
   margin: 5% auto;
