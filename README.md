@@ -15,6 +15,7 @@
 - <a href="https://www.instagram.com/otarossoni/" target="_blank">Instagram</a>
 - <a href="https://open.spotify.com/user/22vfmd5vrda2aotzklm4o3ity?si=8810df50e8b14ea3" target="_blank">Spotify</a>
 - <a href="https://steamcommunity.com/id/OMRStein" target="_blank">Steam</a>
+- <a href="https://www.goodreads.com/user/show/164252967-ot-vio-monteiro" target="_blank">Goodreads</a>
 - <a href="https://linktr.ee/Otarossoni" target="_blank">Linktree</a>
 
 ## Algoritmos
