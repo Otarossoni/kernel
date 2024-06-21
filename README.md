@@ -1,9 +1,3 @@
-<div id="header">
-   <p align="center">
-   <h1 align="center">Kernel</h1>
-   </p>
-</div>
-
 `Um pequeníssimo lugar da internet que reúne algumas atividades do autor, como projetos, estudos e algoritmos.`
 
 ### Links
