@@ -1,4 +1,4 @@
-`Um pequeníssimo lugar da internet que reúne algumas atividades do autor, como projetos, estudos e algoritmos.`
+`Um pequeníssimo lugar da internet que reúne algumas atividades do autor.`
 
 ### Links
 
@@ -14,7 +14,7 @@
 
 ## Algoritmos
 
-Algoritmos são muito importantes na construção de um pensamento lógico embasado e que consigo resolver problemas de maneiras mais eficientes, portanto, neste <a href="https://github.com/Otarossoni/algorithms" target="_blank">repositório</a>, pratico alguns algoritmos e algumas estruturas de dados popularmente conhecidas.
+Algoritmos são muito importantes na construção de um pensamento lógico embasado e que consigo resolver problemas de maneiras mais eficientes, portanto, neste <a href="https://github.com/Otarossoni/data-structures-and-algorithms" target="_blank">repositório</a>, pratico alguns algoritmos e algumas estruturas de dados popularmente conhecidas.
 
 ## Projetos
 
